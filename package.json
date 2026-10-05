@@ -1,0 +1,22 @@
+{
+  "name": "playwright_setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:custom": "playwright test --config=playwright.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.5.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
