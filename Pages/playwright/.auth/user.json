@@ -1,0 +1,125 @@
+{
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "value": "wDbG6YuaRtPS6uKNCn5zCNjCsL7pC_8EtyDzwMeOhco-1788936767.3559616-1.0.1.1-Mh8WhnPN_yiDWOfb2uI04t4J3xscSbGRmUTjJTI8W003F4f8Fm82k3MmlAN.qZzx.tjKlddsRRFC9ZlUoVMFKCGL23K3l.gNlkVFib_lO1bzeBb0bn7hFTGH92VefJ90",
+      "domain": ".hs-scripts.com",
+      "path": "/",
+      "expires": 1788938565.59688,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "KKuCEPlrLcFfLfBjQvhY29.V80ee_b3kOjGn23g4JWA-1788936768.6106124-1.0.1.1-DFERZebydTCehg7onbbu5ZqrG7Z2UEZ93c9NaNcvPm6y5jwkg6Qr18V7VN_Yx7WCI_lOmCuYV.a2KABtuYY_uegJKa8pdBIGUxc1Q3y7FrKP1GnDpsk5widV2ARO2fWa",
+      "domain": ".hsadspixel.net",
+      "path": "/",
+      "expires": 1788938566.568119,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "jQefvwTuejWgDNHFo6PPMKD7Gq.fgNuw2ms2.rZA.gg-1788936769.3596168-1.0.1.1-xFlsYpj88Kh_bug.x5czXBvdSGKQlAbd.kxs6hzAFtuJLTKxRlZ8djce9RW4g6e1eADXwjbtf9F6C_M.CZfyyKGSCqI.YjptJ.9Lbl8Pb_8yJEZsMtZrVfJ3LWj3zm_d",
+      "domain": ".hs-banner.com",
+      "path": "/",
+      "expires": 1788938567.32864,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "7z8CfVhpT4yRFpAR8dkCv0fdNkaa8BvdFbIP11fSiIs-1788936769.8658428-1.0.1.1-UhuPMsKjHnHnNVnVGuLvKVYMEO_j2ZRQ9UI6vVFPRQtDrqtqaSiUakJirs2bWhhG9qPjwF8ypKpCeEPCPeG1qJGZjXnaHv9B0OyKi4FqCBabdQhiwbF69AEGpblWsI1C",
+      "domain": ".usemessages.com",
+      "path": "/",
+      "expires": 1788938567.808898,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "workspace",
+      "value": "%22qa10%22",
+      "domain": ".meetkasper.com",
+      "path": "/",
+      "expires": 1820472775,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "uE0bPWWdMtNxxULFFkAGRlARPfRmDuclH1BLE4ilaAU-1788936769.8242598-1.0.1.1-8htv.ZlNXpKVQsv.onWM9_PldvJWjs7xWx1kxU0gKKW6IjgaiBMR7qFIC5SKNDdm.XWOveGh.cWjnlAFh4FG7uiupy3d3igDYWpDDOsww3W_R90xv3kxHp2LRIMYROUs",
+      "domain": ".hs-analytics.net",
+      "path": "/",
+      "expires": 1788938568.417265,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "9fVdnJr4IWY4FtyeXw3TOLhwUp6p_XqsSnH8U.Wwy_E-1788936775.0058565-1.0.1.1-hgEsCoROHroQ1zq22KkdvbpGgZZCF2yZX.ltOIWMC2axu6s8DI.MpcRUkoQcj85vFB.zwXLx3RZ.ML9OOndArMcPnJZSw6RZwJkE.gqOjlZWIqYmpOc8tyrkTtXou5NO",
+      "domain": ".hsforms.com",
+      "path": "/",
+      "expires": 1788938573.275158,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__hstc",
+      "value": "132950737.d822becda374b10b22c3589af15c3bee.1788936773660.1788936773660.1788936773660.1",
+      "domain": ".meetkasper.com",
+      "path": "/",
+      "expires": 1804488773,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hubspotutk",
+      "value": "d822becda374b10b22c3589af15c3bee",
+      "domain": ".meetkasper.com",
+      "path": "/",
+      "expires": 1804488773,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__hssrc",
+      "value": "1",
+      "domain": ".meetkasper.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__hssc",
+      "value": "132950737.1.1788936773660",
+      "domain": ".meetkasper.com",
+      "path": "/",
+      "expires": 1788938573,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://qa10.meetkasper.com",
+      "localStorage": [
+        {
+          "name": "ld:619d1bf34a55c50cb20e0261:$diagnostics",
+          "value": "{\"dataSinceDate\":1788936773655,\"droppedEvents\":0,\"eventsInLastBatch\":0,\"streamInits\":[]}"
+        }
+      ]
+    }
+  ]
+}

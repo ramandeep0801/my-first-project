@@ -20,6 +20,7 @@ export default defineConfig({
     'TC12.spec.js',
     'TC14.spec.js',
     'TC15.spec.js',
+    'TC16.spec.js'
     
   ],
   /* Run tests in files in parallel */
